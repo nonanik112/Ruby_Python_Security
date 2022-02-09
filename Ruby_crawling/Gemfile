@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'grell'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'rqrcode'
