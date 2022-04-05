@@ -2,8 +2,8 @@ import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-host = "10.0.2.15"
-port = 80
+host = "109.232.219.156"
+port = 8080
 
 message = bytearray("-" * 50, "UTF-8")
 

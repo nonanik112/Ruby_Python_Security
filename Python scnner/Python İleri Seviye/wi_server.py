@@ -2,7 +2,7 @@ import socket
 
 serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-host = "127.0.0.15"
+host = "10.0.2.15"
 port = 8081
 
 serversocket.bind((host,port))
